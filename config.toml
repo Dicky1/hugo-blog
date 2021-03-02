@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "I'm Dicky Setiono"
-author = "Jane Doe"
+title = "Hi There!!👋"
+author = "Dicky S"
 #copyright = "2020-2021"
-description = "Call me Dicky Diko"
+description = "I'm Dicky Setiono, I'm junior security from 🇮🇩 (Indonesia) day by day working and learn a fun things about web development and security application, and love about open source.❤"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
