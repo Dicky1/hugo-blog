@@ -2,9 +2,10 @@
 author = "Dicky Setiono"
 title = "Deploy guhogo di netlify"
 date = "2021-03-04"
-tags = [
-    "hugo","deploy"
-]
+tags = [ "hugo","deploy" ]
+categories = [ "Hugo" ]
+series = ["Themes Guide"] 
+aliases = ["migrate-from-jekyl"]
 +++
 
 ## Apa itu Hugo?

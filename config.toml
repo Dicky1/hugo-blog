@@ -37,7 +37,7 @@ mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+contactFormAction = "https://formspree.io/f/xzbklwvv"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 # indexDateFormat = "Mon, Jan 2, 2006"
@@ -55,25 +55,21 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/Dicky1"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/dickydiko_/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:infodickydiko@gmail.com"
 
 ## Menu items
 
@@ -86,7 +82,7 @@ url = "mailto:mail@alexbilz.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Archive"
   weight = 200
   identifier = "posts"
   url = "/post/"
