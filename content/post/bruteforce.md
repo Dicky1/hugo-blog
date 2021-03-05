@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 
 ## Apa Itu Brute Force 
 
-Serangan brute force adalah metode cracking yang populer menurut beberapa akun, serangan brute force menyumbang 5% confirmed security breaches. Serangan brute force melibatkan __"Menebak"__ nama pengguna dan sandi untuk mendapatkan akses tidak sah ke sistem. Brute force merupakan metode serangan yang sederhanadan memiliki tingkat keberhasilan yang tinggi
+Serangan brute force adalah metode cracking yang populer menurut beberapa akun, serangan brute force menyumbang 5% confirmed security breaches. Serangan brute force melibatkan __"Menebak"__ nama pengguna dan sandi untuk mendapatkan akses tidak sah ke sistem. Brute force merupakan metode serangan yang sederhana dan memiliki tingkat keberhasilan yang tinggi
 
 Beberapa penyerang menggunakan aplikasi dan skrip sebagai alat brute force. Alat-alat ini mencoba berbagai kombinasi kata sandi untuk melewati proses otentikasi. Dalam kasus lain, penyerang mencoba mengakses aplikasi web dengan mencari ID sesi yang tepat. Motivasi penyerang mungkin termasuk mencuri informasi, menginfeksi situs dengan malware, atau mengganggu layanan.
 
