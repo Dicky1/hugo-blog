@@ -1,6 +1,6 @@
 +++
 author = "Dicky Setiono"
-title = "Deploy guhogo di netlify"
+title = "Deploy gohugo di netlify"
 date = "2021-03-04"
 tags = [ "hugo","deploy" ]
 categories = [ "Hugo" ]
