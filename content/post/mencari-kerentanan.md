@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Mencari Kerentanan Web Server Memakai Nikto"
-date = "2019-03-05"
+date = "2021-03-08"
 description = "Guide to emoji usage in Hugo"
 tags = [
     "exploit",
@@ -91,3 +91,17 @@ Dalam kasus [testphp.vulnweb.com](http://testphp.vulnweb.com/), kita cukup mengg
 ```
 nikto -h testphp.vulnweb.com -p 80
 ```
+![img](https://www.ceos3c.com/wp-content/uploads/2019/11/word-image-5.png?ezimgfmt=ng:webp/ngcb43)
+
+Sekarang, jika situs web diamankan dengan SSL, maka kamu mungkin akan melihat informasi mengenai SSL, dan untuk situs web yang diamankan ini, Nikto akan menjalankan pemindaian kerentanan lain untuk menemukan kemungkinan cacat yang ada dalam sistem. Proses pemindaian tidak selalu begitu cepat, dan jelas akan membutuhkan waktu untuk menyelesaikannya karena Nikto memindainya secara mendalam, dan untuk pemindaian yang dalam, perlu beberapa saat untuk menyelesaikannya.
+
+Setelah Nikto menyelesaikan pemindaian, kamu sekarang akan melihat daftar kerentanan yang ada di situs web dan server web. Beberapa kerentanan hanya bersifat informasional, sementara yang lain mungkin sangat kritis.
+
+Nikto memberi tahu kita tentang banyak kerentanan, masalah, dan informasi, termasuk:
+
+1. Web-server details
+2. Installation files for Apache server
+3. Access to backend files with the help of Directory indexing
+4. Number of entries in a text file
+
+Biasanya para peretas menggunakan nikto untuk memindai kerentanan situs web dan menganalis keamanan informasi kemudian dia akan melaporkan kepada pemilik situs web untuk segera di perbaiki ini biasa yang di sebut *whitehat*
