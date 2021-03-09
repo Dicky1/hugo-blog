@@ -1,11 +1,12 @@
 +++
 author = "Hugo Authors"
-title = "Mencari Kerentanan Web Server Memakai Nikto"
+title = "Mencari Kerentanan Web Server Menggunakan Nikto"
 date = "2021-03-08"
 description = "Guide to emoji usage in Hugo"
 tags = [
-    "exploit",
+    "exploit", "Penetration Testing"
 ]
+categories = [ "White Hat" ]
 +++
 
 ## Pengertian Nikto Dan Perkembangannya
