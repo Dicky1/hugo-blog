@@ -34,7 +34,6 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/xzbklwvv"
