@@ -32,6 +32,7 @@
                 {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
             </div>
         </div>
+        {{ partial "share-buttons.html" . }}
 
         {{ if eq .Type "post"}}
             {{- if .Site.DisqusShortname -}}
