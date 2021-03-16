@@ -2,8 +2,8 @@
 author = "Dicky Setiono"
 title = "Laporan Keamanan Cyber 2020"
 date = "2021-03-05"
-tags = [ "Cyber Security","Penetration Testing" ]
-categories = [ "Cyber Security" ]
+tags = [ "Laporan Keamanan Cyber"]
+categories = [ "Laporan" ]
 series = ["Themes Guide"] 
 aliases = ["migrate-from-jekyl"]
 +++
