@@ -5,10 +5,11 @@ date = "2021-03-16"
 tags = [
     "psychology", "Life"
 ]
-categories = [ "Life" ]
+categories = [ "Motivation" ]
 +++
 
 #### Cara Meningkatkan Work-Life Balance Hari Ini
+![img](https://miro.medium.com/max/700/1*A3l4o7CQO4TYx3J40LS3Zg@2x.png)
 Mungkin ada sedikit qoutes sebelum kita memulai
 
 >Balancing your professional and personal life can be challenging, but it's essential. Here's how to improve your work-life balance today.
@@ -52,4 +53,24 @@ kamu mungkin bekerja di lingkungan yang menurutmu di anggap *toxic*, untuk orang
 
 3. Prioritaskan Kesehatan
 
-Kesehatan fisik, emosional dan mental kamu secara keseluruhan harus menjadi perhatian utama kamu. Jika kamu bergumul dengan kecemasan atau depresi dan berpikir terapi akan bermanfaat bagi kamu, sesuaikan sesi tersebut ke dalam jadwal kamu, bahkan jika kamu harus pulang kerja lebih awal atau meninggalkan dari ruangan. 
+Kita pernah gak ngrasain untuk bekerja lebih tanpa melihat batas kemampuan tubuh. Kesehatan fisik, emosional dan mental kamu secara keseluruhan harus menjadi perhatian utama kamu.
+
+>"Prioritizing your health first and foremost will make you a better employee and person," #Monahan
+
+Untuk menjaga kesehatan dari hal kecil mulai untuk berpikiran positive dan biarkan tubuh beristirahat secara cukup
+
+4. Liburan
+
+Saat kita pergi untuk mengambil waktu liburan dan menghentikan pekerjaan sama sekali untuk sementara waktu. Baik liburan kamu terdiri dari staycation satu hari atau perjalanan dua minggu ke Bali, penting untuk mengambil cuti untuk memulihkan kondisi fisik dan mental.
+
+Menurut studi State of American Vacation 2018 yang dilakukan oleh U.S. Travel Association, 52% karyawan melaporkan memiliki sisa hari libur yang tidak terpakai di akhir tahun. Karyawan sering khawatir bahwa mengambil cuti akan mengganggu alur kerja, dan mereka akan menemui tumpukan pekerjaan saat mereka kembali. Ketakutan ini seharusnya tidak membatasi kamu untuk mengambil istirahat yang sangat kamu butuhkan.
+
+>"The truth is, there is no nobility in not taking well-deserved time away from work; the benefits of taking a day off far outweigh the downsides," #Chancey
+
+5. Luangkan waktu untuk diri sendiri dan orang yang kamu cintai.
+
+Meskipun pekerjaan kamu penting, itu tidak seharusnya menjadi seluruh hidup kamu. kamu adalah seorang individu sebelum mengambil posisi ini, dan kamu harus memprioritaskan aktivitas atau hobi yang membuat kamu bahagia. Chancey mengatakan bahwa mencapai keseimbangan kehidupan kerja membutuhkan tindakan yang disengaja.
+
+Tidak peduli seberapa padatnya jadwal kamu, pada akhirnya kamu memiliki kendali atas waktu dan hidup kamu
+
+Saat merencanakan waktu bersama orang yang kamu cintai, buat kalender untuk kencan romantis dan keluarga. Mungkin tampak aneh untuk merencanakan waktu berduaan dengan seseorang yang tinggal bersama kamu, tetapi ini akan memastikan bahwa kamu menghabiskan waktu berkualitas bersama mereka tanpa konflik kehidupan kerja. Hanya karena pekerjaan membuat kamu sibuk bukan berarti kamu harus mengabaikan hubungan pribadi.
