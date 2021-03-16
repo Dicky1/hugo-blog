@@ -50,4 +50,6 @@ Monahan merekomendasikan mencari pekerjaan yang sangat kamu sukai.
  
 kamu mungkin bekerja di lingkungan yang menurutmu di anggap *toxic*, untuk orang yang *toxic*, atau melakukan pekerjaan yang benar-benar tidak kamu cintai. Jika ini masalahnya, sekarang saatnya mencari pekerjaan baru.
 
-3. 
+3. Prioritaskan Kesehatan
+
+Kesehatan fisik, emosional dan mental kamu secara keseluruhan harus menjadi perhatian utama kamu. Jika kamu bergumul dengan kecemasan atau depresi dan berpikir terapi akan bermanfaat bagi kamu, sesuaikan sesi tersebut ke dalam jadwal kamu, bahkan jika kamu harus pulang kerja lebih awal atau meninggalkan dari ruangan. 
