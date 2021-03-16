@@ -74,3 +74,5 @@ Meskipun pekerjaan kamu penting, itu tidak seharusnya menjadi seluruh hidup kamu
 Tidak peduli seberapa padatnya jadwal kamu, pada akhirnya kamu memiliki kendali atas waktu dan hidup kamu
 
 Saat merencanakan waktu bersama orang yang kamu cintai, buat kalender untuk kencan romantis dan keluarga. Mungkin tampak aneh untuk merencanakan waktu berduaan dengan seseorang yang tinggal bersama kamu, tetapi ini akan memastikan bahwa kamu menghabiskan waktu berkualitas bersama mereka tanpa konflik kehidupan kerja. Hanya karena pekerjaan membuat kamu sibuk bukan berarti kamu harus mengabaikan hubungan pribadi.
+
+Terimakasih sudah membaca di blog yang tidak berfaedah ini, semoga bermanfat😊
