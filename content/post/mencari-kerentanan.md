@@ -2,7 +2,6 @@
 author = "Hugo Authors"
 title = "Mencari Kerentanan Web Server Menggunakan Nikto"
 date = "2021-03-08"
-description = "Guide to emoji usage in Hugo"
 tags = [
     "exploit", "Penetration Testing"
 ]
