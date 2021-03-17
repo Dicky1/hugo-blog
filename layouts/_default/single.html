@@ -30,9 +30,10 @@
             <div class="info">
                 {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
                 {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+                {{ partial "share-buttons.html" . }}
             </div>
         </div>
-        {{ partial "share-buttons.html" . }}
+        
 
         {{ if eq .Type "post"}}
             {{- if .Site.DisqusShortname -}}
