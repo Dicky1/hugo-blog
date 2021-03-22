@@ -1,6 +1,6 @@
 +++
 author = "Dicky S"
-title = "Try Hack Me Challenge Part 1"
+title = "Try Hack Me Nmap Challenge Part 1"
 date = "2021-03-17"
 tags = [
     "CTF", "Learn"
